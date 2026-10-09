@@ -8,7 +8,7 @@
     <artifactId>crediya</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>Sistema de Cobros de Cartera CrediYa</name>
+    <name>Examen_java_Ruben</name>
 
     <properties>
         <!-- Java 17 -->
